@@ -8,8 +8,7 @@ dotnet build -c Release --no-restore
 dotnet test
 
 Events(Workflow Triggers)
-
-provide configuration to an action using the with keyword
-
 activity type
 filter
+
+provide configuration to an action using the with keyword
