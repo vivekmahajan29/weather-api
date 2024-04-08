@@ -1,7 +1,9 @@
 name: CICD
 
 on:
-  push: 
+  push:
+    paths:
+      - 'src/WeatherApi/Properties/**'
     branches:
       - main
 

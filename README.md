@@ -6,3 +6,5 @@ fetches all the necessary NuGet packages from nuget.org and installs them locall
 dotnet build -c Release --no-restore
 
 dotnet test
+
+Events(Workflow Triggers)
