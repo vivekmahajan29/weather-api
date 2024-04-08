@@ -9,6 +9,10 @@ on:
       - opened
 #      - edited
 
+  push: 
+    branches:
+      - main
+
 jobs:
   test:
     runs-on: ubuntu-latest
