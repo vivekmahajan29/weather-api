@@ -10,3 +10,6 @@ dotnet test
 Events(Workflow Triggers)
 
 provide configuration to an action using the with keyword
+
+activity type
+filter
