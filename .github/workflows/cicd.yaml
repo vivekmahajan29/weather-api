@@ -17,5 +17,11 @@ jobs:
         with:
           dotnet-version: '8.0.x'
           
-      - name: Restore dependencies
-        run: dotnet restore
+      - run: pwd
+      
+      
+          
+#      - name: Restore dependencies
+#        run: dotnet restore
+      
+      - run: ls -la
